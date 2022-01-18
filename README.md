@@ -10,6 +10,12 @@
 
 <br />
 
+### Conecte-se comigo:
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/leonardo-broca-a006001ba/)](https://www.linkedin.com/in/leonardo-broca-a006001ba/)
+
+<br />
+
 ### Linguagens e Ferramentas:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -32,6 +38,6 @@
 ### :zap: GitHub Status
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leozbroca&show_icons=true&theme=dark&include_all_commits=true&hide_border=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leozbroca&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&hide_border=true"/>
 </a>
 
