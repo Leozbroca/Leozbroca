@@ -12,7 +12,9 @@
 
 ### Conecte-se comigo:
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/leonardo-broca-a006001ba/)](https://www.linkedin.com/in/leonardo-broca-a006001ba/)
+<a href="https://www.linkedin.com/in/leozbroca" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a> 
 
 <br />
 
