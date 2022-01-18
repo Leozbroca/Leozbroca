@@ -2,11 +2,7 @@
 
 ## Sou um Desenvolvedor Front End !!
 
-- 🔭 Desenvolvedor Fullstack em andamento
-- 🌱
-- 👯
-- 🥅
-- ⚡
+- 🌱 Desenvolvedor Fullstack em andamento
 
 <br />
 
@@ -42,7 +38,6 @@
 <div style="display:flex">
     <div>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leozbroca&   show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-        <a height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leozbroca&layout=compact&langs_count=16&theme=dracula">
-    <div>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leozbroca&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+        
 </div>
