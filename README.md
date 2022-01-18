@@ -1,6 +1,6 @@
 ### Olá, eu sou Leonardo Broca 👋
 
-## Sou um Desenvolvedor Fullstack !!
+## Sou um Desenvolvedor Front End !!
 
 - 🔭
 - 🌱
