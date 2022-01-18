@@ -1,12 +1,12 @@
-### Olá, eu sou Leonardo Broca 👋 
+### Olá, eu sou Leonardo Broca 👋
 
 ## Sou um Desenvolvedor Fullstack !!
 
-- 🔭 
-- 🌱 
-- 👯 
-- 🥅 
-- ⚡ 
+- 🔭
+- 🌱
+- 👯
+- 🥅
+- ⚡
 
 <br />
 
@@ -37,7 +37,11 @@
 
 ### :zap: GitHub Status
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leozbroca&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&hide_border=true"/>
-</a>
-
+<div style="display:flex">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leozbroca&   show_icons=true&theme=vision-friendly-dark&include_all_commits=true&hide_border=true"/>
+    </a>   
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leozbroca&layout=compact&langs_count=16&theme=vision-friendly-dar"/>
+    </a>
+</div>
