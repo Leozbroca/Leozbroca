@@ -38,7 +38,7 @@
 <div style="display:flex">
     <div style="width=100%">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Leozbroca&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leozbroca&layout=compact&theme=vision-friendly-dark"/> 
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Leozbroca&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leozbroca&layout=compact&theme=react"/> 
             </div>
 </div>
